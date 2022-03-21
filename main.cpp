@@ -8,5 +8,6 @@ int main()
     int a,b;
     cin >> a >> b;
     cout << "Summ a+b=" << a+b << endl;
+    cout << "Diff a-b=" << a-b << endl;
     return 0;
 }
