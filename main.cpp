@@ -14,6 +14,11 @@ int main()
      << "min:";
       if (a < b)
         cout << a << '\n';
+     else
+        cout << b << '\n'
+     << "max:";
+      if (a > b)
+        cout << a << '\n';
     else
         cout << b << '\n';
     return 0;
